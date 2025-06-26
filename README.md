@@ -9,7 +9,7 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **N4si** – an all-in-one backend-powered web app  
+- 🔭 I’m currently working on  – an all-in-one backend-powered web app  
 - 🌱 I’m currently learning **Docker**, **Next.js**, and **GitHub Actions**  
 - 💬 Ask me about **Spring Boot, Flutter, React, MySQL, Docker**  
 - 📫 Reach me at **atuyishime28@gmail.com**  
